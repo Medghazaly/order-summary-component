@@ -28,7 +28,7 @@ body {
 /* Start Order Summary */
 
 .container {
-  width: 500px;
+  width: 452px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -45,13 +45,13 @@ body {
 }
 
 .container .content {
-  padding: 0 40px;
+  padding: 0 50px;
+  margin: 40px 0;
 }
 
 .container .content h1 {
   font-size: 28px;
   font-weight: 900;
-  margin-top: 31px;
 }
 
 .container .content p {
@@ -117,7 +117,6 @@ body {
   background: white;
   font-weight: 900;
   color: var(--Desaturated-blue);
-  margin-bottom: 40px;
 }
 
 /* Media Query Mobile */
